@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    border:  7px solid black;
+    border-radius: 20px;
+    color:white;
+    background-color: black;
+    
+    
+}
+.misha{
+    width:200px;
+    padding-left: 10px;
+   
+    
+}
+.mishaa{
+     width:200px;
+    padding-left: 20px;
+     
+}
+   
+    
+.mishaaa{
+    width: 200px;
+    padding-left:20px;
+    
+}
+main{
+    border:5px solid black;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+footer img{
+    width: 50px;
+    padding-left:80px;
+    
+}
+footer{
+    background-color: yellow;
+}
